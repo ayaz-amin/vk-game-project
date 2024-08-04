@@ -1,2 +1,2 @@
-# vk-game-project
-Vulkan game.
+# Vulkan Game Project
+This is a Vulkan game.
